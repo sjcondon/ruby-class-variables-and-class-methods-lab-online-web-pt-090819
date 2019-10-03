@@ -34,18 +34,6 @@ class Song
     else 
       hash[genre] += 1
   end
-  end
-  
-  # def name
-  #   @@name
-  # end
-  
-  # def artist
-  #   @@artist
-  # end
-  
-  # def genre
-  #   @@genre
-  # end
+
 
 end                 
